@@ -13,6 +13,7 @@ VNDK_SP_LIBRARIES := \
     libbcinfo \
     libblas \
     libc++ \
+    libdexfile_support \
     libcompiler_rt \
     libcutils \
     libft2 \
